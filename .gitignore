@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Environment
+.env
+.env.*
+
+# Build
+dist/
+coverage/
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
